@@ -7,7 +7,7 @@
 # Victor Matheus
 <sub>*Diretor Administrativo e Cientista de dados no Colégio Agnes*</sub>
 
-As a Data Scientist and enterpreneur I combine analytical skills, ability to work in team environments, ability to manage teams, solve problems and understanding of business problems. Having spend the last years gathering data and applying statistics and machine learning to solve real business problems, I developed a critical thinking and problem-solving skills.
+As a Data Scientist and Enterpreneur I combine analytical skills, ability to work in team environments, ability to manage teams and the ability to understand and solve real business problems. Having spend the last years gathering data and applying statistics and machine learning to business problems, I developed a critical thinking and problem-solving skills.
 
 My credentials include a Bachelor's degree in Civil Engineering from the Center of Higher Studies (CESMAC), an institution of higher education, and an executive MBA in Business Analytics from the Institute of Post-Graduation and Graduation (IPOG).
 
